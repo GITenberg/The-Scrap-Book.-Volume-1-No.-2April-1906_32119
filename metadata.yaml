@@ -1,0 +1,28 @@
+_repo: The-Scrap-Book.-Volume-1-No.-2April-1906_32119
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: The Scrap Book
+gutenberg_issued: '2010-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Periodicals'
+- !lcc 'AP'
+title: 'The Scrap Book. Volume 1, No. 2
+
+  April 1906'
+url: http://www.gutenberg.org/ebooks/32119
