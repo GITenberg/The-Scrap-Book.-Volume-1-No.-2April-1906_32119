@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32119#The-Scrap-Book.-Volume-1-No.-2April-1906
 gutenberg_bookshelf: The Scrap Book
 gutenberg_issued: '2010-04-24'
 gutenberg_type: Text
